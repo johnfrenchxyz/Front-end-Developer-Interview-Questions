@@ -49,7 +49,9 @@ This file contains a number of front-end interview questions that can be used wh
 #### HTML Questions:
 
 * What does a `doctype` do?
+  * It is an instuction to the browser about what version of HTML you're using and how it interpret and interact with the code.
 * What's the difference between full standards mode, almost standards mode and quirks mode?
+  * They are a slightly different set of rules for interpreting HTML/CSS. Almost Standards mode has differening height calculations for line boxes and inline elements in them. 
 * What's the difference between HTML and XHTML?
 * Are there any problems with serving pages as `application/xhtml+xml`?
 * How do you serve a page with content in multiple languages?
